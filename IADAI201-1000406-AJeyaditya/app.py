@@ -172,7 +172,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-MODEL_PATH = Path("models/best.pt")
+MODEL_PATH = Path("IADAI201-1000406-AJeyaditya/models/best.pt")
 MAX_DISPLAY_DIM = 1024
 
 
