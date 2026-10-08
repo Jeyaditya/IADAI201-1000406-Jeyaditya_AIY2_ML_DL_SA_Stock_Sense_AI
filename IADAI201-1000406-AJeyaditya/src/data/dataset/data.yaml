@@ -1,0 +1,16 @@
+path: ../data/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 10
+names:
+  0: drink
+  1: puffed_food
+  2: instant_noodles
+  3: dessert
+  4: canned_food
+  5: stationery
+  6: dried_food
+  7: chocolate
+  8: candy
+  9: milk
