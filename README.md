@@ -18,7 +18,7 @@
 * **Career-related Study (CRS):** Artificial Intelligence
 * **Scenario Selected:** Scenario 2 — Smart Retail Vision System
 
-App link:[Click here to access](https://iadai201-1000406-jeyadityaaiy2mldlsastocksenseai-egekywaw7smkz.streamlit.app/)
+App link:  [Click here to access](https://iadai201-1000406-jeyadityaaiy2mldlsastocksenseai-egekywaw7smkz.streamlit.app/)
 
 ---
 
