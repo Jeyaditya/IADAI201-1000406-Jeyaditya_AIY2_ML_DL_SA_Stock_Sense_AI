@@ -1,6 +1,5 @@
 """
 StockSense Pro: Cognitive Retail Vision & Material Intelligence
-Clean Production Dashboard: Dedicated File Upload & 3-Column Stock Triage
 
 Author: A Jeyaditya (Student ID: 1000406)
 School: Jain Vidyalaya IB World School
@@ -247,7 +246,7 @@ with st.sidebar:
     st.markdown("### 🎓 Academic Submission")
     st.markdown(
         """
-        - **Student:** A Jeyaditya (JD)  
+        - **Student:** A Jeyaditya
         - **Registration No:** 1000406  
         - **School:** Jain Vidyalaya IB World School  
         - **Course:** Machine Learning & Deep Learning  
