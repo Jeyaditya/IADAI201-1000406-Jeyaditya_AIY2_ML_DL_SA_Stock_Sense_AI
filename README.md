@@ -20,6 +20,7 @@
 
 App link:  [Click here to access](https://iadai201-1000406-jeyadityaaiy2mldlsastocksenseai-egekywaw7smkz.streamlit.app/)
 
+[Click here to see screenshots](https://drive.google.com/drive/folders/1HJP44uDYtcOdQSwsWvJmhE9WzhmtDKxx?usp=sharing)
 ---
 
 ## 1. Executive Summary & Problem Formulation
